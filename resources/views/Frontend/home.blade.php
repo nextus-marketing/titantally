@@ -1,5 +1,5 @@
 @extends('layouts.frontend')
-@section('title') Home | Titan Tally @endsection
+@section('title') Professional Accounting & Bookkeeping Services | Titan Tally @endsection
 @section('content')
 <style>
    .pt-120 {

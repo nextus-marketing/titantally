@@ -4,7 +4,7 @@
       <meta charset="utf-8">
       <meta http-equiv="x-ua-compatible" content="ie=edge">
       <title>@yield('title')</title>
-      <meta name="description" content="">
+      <meta name="description" content="Titan Tally provides reliable accounting, bookkeeping, GST filing, payroll, and tax services designed for startups and small businesses.">
       <meta name="viewport" content="width=device-width, initial-scale=1">
       <meta name="robots" content="follow, index, max-snippet:-1, max-video-preview:-1, max-image-preview:large"/>
       <link rel="canonical" href="{{ url()->current() }}" />
