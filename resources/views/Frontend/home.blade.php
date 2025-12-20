@@ -601,7 +601,7 @@ var swiper = new Swiper(".industry-slider", {
 
 
          <!-- cta area start -->
-        <section class="tp-cta-area-2 p-relative pt-75 pb-80" data-background="/frontend/my-img/bg.png">
+        <section class="tp-cta-area-2 p-relative pt-75 pb-80" data-background="/frontend/my-img/bg.png" id="contact">
             <div class="container">
                <div class="row align-items-center justify-content-center">
                   <div class="col-lg-6">
