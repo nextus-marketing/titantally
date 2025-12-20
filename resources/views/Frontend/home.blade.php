@@ -1,6 +1,18 @@
 @extends('layouts.frontend')
 @section('title') Home | Titan Tally @endsection
 @section('content')
+<style>
+   .pt-120 {
+    padding-top: 70px;
+}
+.pt-140 {
+    padding-top: 80px;
+}
+
+.pb-145 {
+    padding-bottom: 90px;
+}
+</style>
 <main>
 
          <!-- hero area start -->
@@ -175,99 +187,118 @@
 
          <!-- process area start -->
          <section class="tp-process-arae-2 pb-90">
-            <div class="container">
-               <div class="row">
-                  <div class="col-lg-12">
-                     <div class="tp-process-title-wrapper-2 text-center mb-70">
-                        <span class="tp-section-title-pre">work process</span>
-                        <h3 class="tp-section-title">Where your financial dreams <br> become reality</h3>
-                     </div>
+   <div class="container">
+      <!-- Section Title -->
+      <div class="row">
+         <div class="col-lg-12">
+            <div class="tp-process-title-wrapper-2 text-center mb-70">
+               <span class="tp-section-title-pre">work process</span>
+               <h3 class="tp-section-title">
+                  Where your financial dreams <br> become reality
+               </h3>
+            </div>
+         </div>
+      </div>
+
+      <!-- Process Cards -->
+      <div class="tp-process-wrapper-2 p-relative">
+         <div class="row justify-content-center">
+
+            <!-- Card 1 -->
+            <div class="col-lg-4 col-md-6 col-sm-6">
+               <div class="tp-process-item-2 text-center p-relative mb-30 wow fadeInUp" data-wow-duration="1s" data-wow-delay=".3s">
+                  <div class="tp-process-item-icon-2">
+                     <span>
+                        <img src="/frontend/assets/img/process/home-2/icon-2.svg" alt="">
+                     </span>
                   </div>
-               </div>
-               <div class="tp-process-wrapper-2 p-relative">
-                  <div class="row justify-content-center">
-                  <div class="col-lg-3 col-md-6 col-sm-6">
-                     <div class="tp-process-item-2 text-center p-relative mb-30 wow fadeInUp" data-wow-duration="1s" data-wow-delay=".3s">
-                        <div class="tp-process-item-icon-2">
-                           <span>
-                             <img src="/frontend/assets/img/process/home-2/icon-2.svg" alt="">
-                           </span>
-                        </div>
-                        <div class="tp-process-item-content-2">
-                           <h4 class="tp-process-title">Bookkeeping</h4>
-                           <p>At The Titan Tally, we deliver best-in-class bookkeeping solutions for businesses of all sizes...</p>
-                        </div>
-                     </div>
-                  </div>
-                  <div class="col-lg-3 col-md-6 col-sm-6">
-                     <div class="tp-process-item-2 text-center p-relative mb-30 wow fadeInUp" data-wow-duration="1s" data-wow-delay=".5s">
-                        <div class="tp-process-item-icon-2">
-                           <span>
-                              <img src="/frontend/assets/img/process/home-2/icon-4.svg" alt="">
-                           </span>
-                        </div>
-                        <div class="tp-process-item-content-2">
-                           <h4 class="tp-process-title">Payroll</h4>
-                           <p>The Titan Tally provides reliable and efficient payroll services backed by innovative processes...</p>
-                        </div>
-                     </div>
-                  </div>
-                  <div class="col-lg-3 col-md-6 col-sm-6">
-                     <div class="tp-process-item-2 text-center p-relative mb-30 wow fadeInUp" data-wow-duration="1s" data-wow-delay=".7s">
-                        <div class="tp-process-item-icon-2">
-                           <span>
-                              <img src="/frontend/assets/img/process/home-2/icon-3.svg" alt="">
-                           </span>
-                        </div>
-                        <div class="tp-process-item-content-2">
-                           <h4 class="tp-process-title">Tax & Accounting</h4>
-                           <p>The Titan Tally is your trusted partner for tax planning and accounting...</p>
-                        </div>
-                     </div>
-                  </div>
-                    <div class="col-lg-3 col-md-6 col-sm-6">
-                     <div class="tp-process-item-2 text-center p-relative mb-30 wow fadeInUp" data-wow-duration="1s" data-wow-delay=".9s">
-                        <div class="tp-process-item-icon-2">
-                           <span>
-                              <img src="/frontend/assets/img/process/icon-1.svg" alt="">
-                           </span>
-                        </div>
-                        <div class="tp-process-item-content-2">
-                           <h4 class="tp-process-title">CFO Advisory</h4>
-                           <p>Our CFO Advisory services give you access to experienced financial specialists...</p>
-                        </div>
-                     </div>
-                  </div>
-                  <div class="col-lg-3 col-md-6 col-sm-6">
-                     <div class="tp-process-item-2 text-center p-relative mb-30 wow fadeInUp" data-wow-duration="1s" data-wow-delay=".9s">
-                        <div class="tp-process-item-icon-2">
-                           <span>
-                              <img src="/frontend/assets/img/process/icon-3.svg" alt="">
-                           </span>
-                        </div>
-                        <div class="tp-process-item-content-2">
-                           <h4 class="tp-process-title">Incorporation</h4>
-                           <p>With over a decade of experience, The Titan Tally provides seamless incorporation services...</p>
-                        </div>
-                     </div>
-                  </div>
-                  <div class="col-lg-3 col-md-6 col-sm-6">
-                     <div class="tp-process-item-2 text-center p-relative mb-30 wow fadeInUp" data-wow-duration="1s" data-wow-delay=".9s">
-                        <div class="tp-process-item-icon-2">
-                           <span>
-                              <img src="/frontend/assets/img/process/home-2/icon-3.svg" alt="">
-                           </span>
-                        </div>
-                        <div class="tp-process-item-content-2">
-                           <h4 class="tp-process-title">Sales Tax Consulting</h4>
-                           <p>The Titan Tally is home to qualified and experienced tax professionals...</p>
-                        </div>
-                     </div>
-                  </div>
+                  <div class="tp-process-item-content-2">
+                     <h4 class="tp-process-title">Bookkeeping</h4>
+                     <p>At The Titan Tally, we deliver best-in-class bookkeeping solutions for businesses of all sizes.</p>
                   </div>
                </div>
             </div>
-         </section>
+
+            <!-- Card 2 -->
+            <div class="col-lg-4 col-md-6 col-sm-6">
+               <div class="tp-process-item-2 text-center p-relative mb-30 wow fadeInUp" data-wow-duration="1s" data-wow-delay=".5s">
+                  <div class="tp-process-item-icon-2">
+                     <span>
+                        <img src="/frontend/assets/img/process/home-2/icon-4.svg" alt="">
+                     </span>
+                  </div>
+                  <div class="tp-process-item-content-2">
+                     <h4 class="tp-process-title">Payroll</h4>
+                     <p>The Titan Tally provides reliable and efficient payroll services backed by innovative processes.</p>
+                  </div>
+               </div>
+            </div>
+
+            <!-- Card 3 -->
+            <div class="col-lg-4 col-md-6 col-sm-6">
+               <div class="tp-process-item-2 text-center p-relative mb-30 wow fadeInUp" data-wow-duration="1s" data-wow-delay=".7s">
+                  <div class="tp-process-item-icon-2">
+                     <span>
+                        <img src="/frontend/assets/img/process/home-2/icon-3.svg" alt="">
+                     </span>
+                  </div>
+                  <div class="tp-process-item-content-2">
+                     <h4 class="tp-process-title">Tax & Accounting</h4>
+                     <p>The Titan Tally is your trusted partner for tax planning and accounting services.</p>
+                  </div>
+               </div>
+            </div>
+
+            <!-- Card 4 -->
+            <div class="col-lg-4 col-md-6 col-sm-6">
+               <div class="tp-process-item-2 text-center p-relative mb-30 wow fadeInUp" data-wow-duration="1s" data-wow-delay=".3s">
+                  <div class="tp-process-item-icon-2">
+                     <span>
+                        <img src="/frontend/assets/img/process/icon-1.svg" alt="">
+                     </span>
+                  </div>
+                  <div class="tp-process-item-content-2">
+                     <h4 class="tp-process-title">CFO Advisory</h4>
+                     <p>Our CFO Advisory services give you access to experienced financial specialists.</p>
+                  </div>
+               </div>
+            </div>
+
+            <!-- Card 5 -->
+            <div class="col-lg-4 col-md-6 col-sm-6">
+               <div class="tp-process-item-2 text-center p-relative mb-30 wow fadeInUp" data-wow-duration="1s" data-wow-delay=".5s">
+                  <div class="tp-process-item-icon-2">
+                     <span>
+                        <img src="/frontend/assets/img/process/icon-3.svg" alt="">
+                     </span>
+                  </div>
+                  <div class="tp-process-item-content-2">
+                     <h4 class="tp-process-title">Incorporation</h4>
+                     <p>With over a decade of experience, The Titan Tally provides seamless incorporation services.</p>
+                  </div>
+               </div>
+            </div>
+
+            <!-- Card 6 -->
+            <div class="col-lg-4 col-md-6 col-sm-6">
+               <div class="tp-process-item-2 text-center p-relative mb-30 wow fadeInUp" data-wow-duration="1s" data-wow-delay=".7s">
+                  <div class="tp-process-item-icon-2">
+                     <span>
+                        <img src="/frontend/assets/img/process/home-2/icon-3.svg" alt="">
+                     </span>
+                  </div>
+                  <div class="tp-process-item-content-2">
+                     <h4 class="tp-process-title">Sales Tax Consulting</h4>
+                     <p>The Titan Tally is home to qualified and experienced sales tax professionals.</p>
+                  </div>
+               </div>
+            </div>
+
+         </div>
+      </div>
+   </div>
+</section>
+
          <!-- process area end -->
 
 
@@ -277,7 +308,7 @@
 
       <div class="row">
          <div class="col-lg-12">
-            <div class="tp-service-title-wrapper-2 mb-80 text-center">
+            <div class="tp-service-title-wrapper-2 text-center">
                <span class="tp-section-title-pre">Our services</span>
                <h3 class="tp-section-title">Invest in your future <br> with us</h3>
             </div>

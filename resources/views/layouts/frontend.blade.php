@@ -223,11 +223,6 @@
                            </div>
                            <div class="tp-footer-widget-content">
                               <p>Titantally is a trusted accounting and financial services firm providing expert bookkeeping, tax, and payroll solutions. We help businesses and individuals stay organized, compliant, and audit-ready.</p>
-                              <div class="tp-footer-widget-social">
-                                 <a href="#0"><i class="fab fa-facebook-f"></i></a>
-                                 <a href="#0"><i class="fab fa-twitter"></i></a>
-                                 <a href="#0"><i class="fa-brands fa-instagram"></i></a>
-                              </div>
                            </div>
                         </div>
                      </div>
@@ -244,7 +239,7 @@
                         </div> 
                      </div>
                      <div class="col-xl-3 col-lg-3 col-md-6 col-sm-6">
-                        <div class="tp-footer-widget tp-footer-2-col-3 mb-50">
+                        <div class="tp-footer-widget tp-footer-2-col-3">
                             <h3 class="tp-footer-widget-title">Get In Touch</h3>
                             <div class="tp-footer-widget-content">
                                 <div class="tp-footer-widget-item">
