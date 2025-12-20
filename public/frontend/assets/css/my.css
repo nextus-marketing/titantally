@@ -1,0 +1,75 @@
+.tp-pricing-card {
+    background: #ffffff;
+    border-radius: 12px;
+    padding: 40px 30px;
+    box-shadow: 0 10px 30px rgba(0, 0, 0, 0.08);
+    transition: all 0.3s ease;
+
+    display: flex;
+    flex-direction: column;
+    height: 100%;
+}
+
+.tp-pricing-card:hover {
+    transform: translateY(-8px);
+}
+
+.tp-pricing-price {
+    font-size: 42px;
+    font-weight: 700;
+    color: #0a1c2a;
+}
+
+.tp-pricing-price span {
+    font-size: 16px;
+    font-weight: 500;
+    color: #6b7280;
+}
+
+.tp-pricing-title {
+    margin-top: 10px;
+    font-size: 22px;
+    font-weight: 600;
+}
+
+.tp-pricing-desc {
+    font-size: 15px;
+    color: #6b7280;
+    margin-top: 10px;
+}
+
+.tp-pricing-features ul {
+    list-style: none;
+    padding: 0;
+    margin: 0;
+}
+
+.tp-pricing-features ul li {
+    padding: 10px 0;
+    font-size: 15px;
+    color: #0a1c2a;
+    border-bottom: 1px solid #e5e7eb;
+}
+
+.tp-pricing-btn {
+    margin-top: auto;
+    text-align: center;
+}
+
+.industry-card {
+    background: #fff;
+    border-radius: 16px;
+    padding: 30px;
+    box-shadow: 0 10px 30px rgba(0, 0, 0, 0.08);
+    text-align: center;
+    height: 130px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.industry-card img {
+    max-width: 100%;
+    max-height: 100px;
+    object-fit: contain;
+}
