@@ -315,7 +315,7 @@
     width: 50px;
     height: 50px;
     font-size: 22px;
-    bottom: 20px;
+    bottom: 44px;
     right: 20px;
   }
 }
