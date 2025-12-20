@@ -139,12 +139,6 @@
                      </div>
                   </div>
                </div>
-               <div class="offcanvas__social">
-                  <a class="icon facebook" href="#0"><i class="fab fa-facebook-f"></i></a>
-                  <a class="icon twitter" href="#0"><i class="fab fa-twitter"></i></a>
-                  <a class="icon youtube" href="#0"><i class="fab fa-youtube"></i></a>
-                  <a class="icon linkedin" href="#0"><i class="fab fa-linkedin"></i></a>
-               </div>
             </div>
          </div>
       </div>
