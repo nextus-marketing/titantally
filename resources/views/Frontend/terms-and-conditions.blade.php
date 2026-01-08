@@ -56,7 +56,7 @@ We use Your Personal data to provide and improve the Service. By using the Servi
             <p><strong>Service</strong> – Refers to the Website.</p>
             <p><strong>Service Provider</strong> – Third-party companies or individuals who process data for the Company.</p>
             <p><strong>Usage Data</strong> – Data collected automatically from using the Service.</p>
-            <p><strong>Website</strong> – Titan Tally, accessible at https://titantally.com/</p>
+            <p><strong>Website</strong> – Titan Tally, accessible at <a href="https://titantally.com/">https://titantally.com/</a></p>
             <p><strong>You</strong> – The individual or entity using or accessing the Service.</p>
 </br>
            <h4>Acknowledgment</h4>
