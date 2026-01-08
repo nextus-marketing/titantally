@@ -135,7 +135,7 @@
                         <i class="fa-solid fa-phone"></i>
                      </div>
                      <div class="offcanvas__contact-content-content">
-                        <a href="tel:01310-069824"> +92 666 888 0000</a>
+                        <a href="tel:01310-069824">+92 666 888 0000</a>
                      </div>
                   </div>
                </div>
