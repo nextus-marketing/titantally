@@ -13,28 +13,28 @@
 }
 </style>
 <section class="breadcrumb__area pt-165 pb-150 p-relative z-index-1 fix" data-bg-color="#16243E">
-            <div class="breadcrumb__bg" data-background="/frontend/my-img/bredcrum.png"></div>
-            <div class="container">
-               <div class="row align-items-center">
-                  <div class="col-sm-6">
-                     <div class="breadcrumb__content">
-                        <h3 class="breadcrumb__title">Privacy Policy</h3>
-                     </div>
-                  </div>
-                  <div class="col-sm-6">
-                     <div class="breadcrumb__content">
-                     <div class="breadcrumb__list text-center text-sm-end">
-                        <span><a href="/">Home</a></span>
-                        <span class="dvdr"><i class="fa-regular fa-angle-right"></i></span>
-                        <span>Privacy Policy</span>
-                     </div>
-                     </div>
-                  </div>
-               </div>
+    <div class="breadcrumb__bg" data-background="/frontend/my-img/bredcrum.png"></div>
+    <div class="container">
+        <div class="row align-items-center">
+            <div class="col-sm-6">
+                <div class="breadcrumb__content">
+                <h3 class="breadcrumb__title">Privacy Policy</h3>
+                </div>
             </div>
-         </section>
+            <div class="col-sm-6">
+                <div class="breadcrumb__content">
+                <div class="breadcrumb__list text-center text-sm-end">
+                <span><a href="/">Home</a></span>
+                <span class="dvdr"><i class="fa-regular fa-angle-right"></i></span>
+                <span>Privacy Policy</span>
+                </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</section>
 
-        <section>
+<section>
     <div class="container pt-70 pb-50">
         <div>
             <p>Expert in Keeping Track of Finances. This Privacy Policy describes Our policies and procedures on the collection, use and disclosure of Your information when You use the Service and informs You about Your privacy rights and how the law protects You.</p>
@@ -58,9 +58,9 @@
             <p><strong>Usage Data</strong> – Data collected automatically from using the Service.</p>
             <p><strong>Website</strong> – Titan Tally, accessible at <a href="https://titantally.com/">https://titantally.com/</a></p>
             <p><strong>You</strong> – The individual or entity using or accessing the Service.</p>
-</br>
+            </br>
             <h3>Collecting and Using Your Personal Data</h3>
-</br>
+            </br>
             <h4>Types of Data Collected</h4>
             <p>While using Our Service, We may ask You to provide personally identifiable information used to contact or identify You.</p>
             <ul>
@@ -69,7 +69,7 @@
                 <li>Phone number</li>
                 <li>Usage Data</li>
             </ul>
-</br>
+            </br>
             <h4>Usage Data</h4>
             <p>Usage Data is collected automatically and may include:</p>
             <ul>
@@ -79,7 +79,7 @@
                 <li>Unique device identifiers</li>
                 <li>Mobile device information when accessing on mobile</li>
             </ul>
-</br>
+            </br>
             <h4>Tracking Technologies and Cookies</h4>
             <p>We use Cookies and similar tracking technologies such as:</p>
             <ul>
@@ -93,7 +93,7 @@
                 <li>Cookies Policy Acceptance Cookies – Track cookie acceptance.</li>
                 <li>Functionality Cookies – Remember user preferences.</li>
             </ul>
-</br>
+            </br>
             <h4>Use of Your Personal Data</h4>
             <p>The Company may use Personal Data for purposes including:</p>
             <ul>
@@ -116,20 +116,20 @@
                 <li>With other users (public areas)</li>
                 <li>With Your consent</li>
             </ul>
-</br>
+            </br>
             <h4>Retention of Your Personal Data</h4>
             <p>We retain Personal Data only as long as necessary for legal, operational, or security purposes. Usage Data may be stored for shorter periods unless required longer.</p>
-</br>
+            </br>
             <h4>Transfer of Your Personal Data</h4>
             <p>Your data may be transferred to systems outside Your jurisdiction but will be protected with appropriate security measures.</p>
-</br>
+            </br>
             <h4>Disclosure of Your Personal Data</h4>
             <p><strong>Business Transactions</strong></p>
             <p>Your data may be transferred during mergers or acquisitions with notice provided.</p>
-</br>
+            </br>
             <p><strong>Law Enforcement</strong></p>
             <p>We may disclose data if required by law or government requests.</p>
-</br>
+            </br>
             <p><strong>Other Legal Requirements</strong></p>
             <ul>
                 <li>Comply with legal obligations</li>
@@ -138,19 +138,19 @@
                 <li>Ensure safety of users and public</li>
                 <li>Protect against legal liability</li>
             </ul>
-</br>
+            </br>
             <h4>Security of Your Personal Data</h4>
             <p>While we aim to use commercially acceptable measures to protect Your data, no security system is 100% secure.</p>
-</br>
+            </br>
             <h4>Children’s Privacy</h4>
             <p>We do not knowingly collect data from children under 13. Parents should contact us if such data is identified.</p>
-</br>
+            </br>
             <h4>Links to Other Websites</h4>
             <p>We are not responsible for third-party website practices and encourage reviewing their privacy policies.</p>
-</br>
+            </br>
             <h4>Changes to this Privacy Policy</h4>
             <p>We may update this Privacy Policy. Changes become effective when posted on this page.</p>
-</br>
+            </br>
             <h4>Contact Us</h4>
             <p>If you have any questions, contact us at:</p>
             <p>Email: <a href="mailto:info@titantally.com"> info@titantally.com</a></p>
