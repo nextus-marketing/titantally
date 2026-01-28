@@ -204,8 +204,8 @@
          <!-- footer area start -->
          <footer class="tp-footer-area-2 pt-140 p-relative z-index-1" data-bg-color="#16243E">
             <div class="tp-footer-bg-shape-2">
-               <img class="shape-1" src="/frontend/assets/img/footer/home-2/shape-1.png" alt="">
-               <img class="shape-2" src="/frontend/assets/img/footer/home-2/shape-2.png" alt="">
+               <img class="shape-1" src="/frontend/assets/img/footer/home-2/shape-1.png" alt="shape-1">
+               <img class="shape-2" src="/frontend/assets/img/footer/home-2/shape-2.png" alt="shape-2">
             </div>
             <div class="tp-footer-main-area tp-footer-border">
                <div class="container">
@@ -234,20 +234,20 @@
                      </div>
                      <div class="col-xl-3 col-lg-3 col-md-6 col-sm-6">
                         <div class="tp-footer-widget tp-footer-2-col-3">
-                            <h3 class="tp-footer-widget-title">Get In Touch</h3>
-                            <div class="tp-footer-widget-content">
-                                <div class="tp-footer-widget-item">
-                                    <span><i class="fa-regular fa-envelope"></i><a href="mailto:info@titantally.com">info@titantally.com</a></span>
-                                </div>
-                                <div class="tp-footer-widget-item">
-                                    <span><i class="fa-solid fa-phone"></i><a href="tel:+0123456789">(+0) 123 456 789</a></span>
-                                </div>
-                                <div class="tp-footer-widget-item">
-                                    <span><i class="fa-solid fa-location-dot"></i> 255 Sheet, City Name Home Land, NY</span>
-                                </div>
-                            </div>
+                           <h3 class="tp-footer-widget-title">Get In Touch</h3>
+                           <div class="tp-footer-widget-content">
+                              <div class="tp-footer-widget-item">
+                                 <span><i class="fa-regular fa-envelope"></i><a href="mailto:info@titantally.com">info@titantally.com</a></span>
+                              </div>
+                              <div class="tp-footer-widget-item">
+                                 <span><i class="fa-solid fa-phone"></i><a href="tel:+0123456789">(+0) 123 456 789</a></span>
+                              </div>
+                              <div class="tp-footer-widget-item">
+                                 <span><i class="fa-solid fa-location-dot"></i> 255 Sheet, City Name Home Land, NY</span>
+                              </div>
+                           </div>
                         </div>
-                    </div>
+                     </div>
                   </div>
                </div>
             </div>
@@ -270,45 +270,45 @@
             </div>
          </footer>
          <!-- footer area end -->
-<a href="tel:+1234567890" class="call-now-btn">
-    <i class="fas fa-phone"></i>
-</a>
+         <a href="tel:+1234567890" class="call-now-btn">
+            <i class="fas fa-phone"></i>
+         </a>
 
-<style>
-.call-now-btn {
-  position: fixed;
-  bottom: 30px;
-  left: 30px;
-  width: 60px;          /* circle width */
-  height: 60px;         /* circle height */
-  display: flex;
-  align-items: center;
-  justify-content: center;
-  background: linear-gradient(90deg, #004D6E 0%, #00ACCC 100%);
-  color: white;
-  font-size: 26px;      /* icon size */
-  border-radius: 50%;   /* makes it circular */
-  box-shadow: 0 8px 20px rgba(0, 0, 0, 0.3);
-  text-decoration: none;
-  transition: transform 0.2s, box-shadow 0.2s;
-  z-index: 9999;
-}
+      <style>
+      .call-now-btn {
+      position: fixed;
+      bottom: 30px;
+      left: 30px;
+      width: 60px;          /* circle width */
+      height: 60px;         /* circle height */
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      background: linear-gradient(90deg, #004D6E 0%, #00ACCC 100%);
+      color: white;
+      font-size: 26px;      /* icon size */
+      border-radius: 50%;   /* makes it circular */
+      box-shadow: 0 8px 20px rgba(0, 0, 0, 0.3);
+      text-decoration: none;
+      transition: transform 0.2s, box-shadow 0.2s;
+      z-index: 9999;
+      }
 
-.call-now-btn:hover {
-  transform: scale(1.1);
-  box-shadow: 0 12px 25px rgba(0, 0, 0, 0.4);
-}
+      .call-now-btn:hover {
+      transform: scale(1.1);
+      box-shadow: 0 12px 25px rgba(0, 0, 0, 0.4);
+      }
 
-@media (max-width: 768px) {
-  .call-now-btn {
-    width: 50px;
-    height: 50px;
-    font-size: 22px;
-    bottom: 44px;
-    right: 20px;
-  }
-}
-</style>
+      @media (max-width: 768px) {
+      .call-now-btn {
+         width: 50px;
+         height: 50px;
+         font-size: 22px;
+         bottom: 44px;
+         right: 20px;
+      }
+      }
+      </style>
 
 
       <!-- JS here -->
