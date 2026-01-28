@@ -254,42 +254,41 @@
             <i class="fas fa-phone"></i>
          </a>
 
-   <style>
-      .call-now-btn {
-      position: fixed;
-      bottom: 30px;
-      left: 30px;
-      width: 60px;          /* circle width */
-      height: 60px;         /* circle height */
-      display: flex;
-      align-items: center;
-      justify-content: center;
-      background: linear-gradient(90deg, #004D6E 0%, #00ACCC 100%);
-      color: white;
-      font-size: 26px;      /* icon size */
-      border-radius: 50%;   /* makes it circular */
-      box-shadow: 0 8px 20px rgba(0, 0, 0, 0.3);
-      text-decoration: none;
-      transition: transform 0.2s, box-shadow 0.2s;
-      z-index: 9999;
-      }
+      <style>
+         .call-now-btn {
+         position: fixed;
+         bottom: 30px;
+         left: 30px;
+         width: 60px;          /* circle width */
+         height: 60px;         /* circle height */
+         display: flex;
+         align-items: center;
+         justify-content: center;
+         background: linear-gradient(90deg, #004D6E 0%, #00ACCC 100%);
+         color: white;
+         font-size: 26px;      /* icon size */
+         border-radius: 50%;   /* makes it circular */
+         box-shadow: 0 8px 20px rgba(0, 0, 0, 0.3);
+         text-decoration: none;
+         transition: transform 0.2s, box-shadow 0.2s;
+         z-index: 9999;
+         }
 
-      .call-now-btn:hover {
-      transform: scale(1.1);
-      box-shadow: 0 12px 25px rgba(0, 0, 0, 0.4);
-      }
+         .call-now-btn:hover {
+         transform: scale(1.1);
+         box-shadow: 0 12px 25px rgba(0, 0, 0, 0.4);
+         }
 
-      @media (max-width: 768px) {
-      .call-now-btn {
-         width: 50px;
-         height: 50px;
-         font-size: 22px;
-         bottom: 44px;
-         right: 20px;
-      }
-      }
-   </style>
-
+         @media (max-width: 768px) {
+         .call-now-btn {
+            width: 50px;
+            height: 50px;
+            font-size: 22px;
+            bottom: 44px;
+            right: 20px;
+         }
+         }
+      </style>
 
       <!-- JS here -->
       <script src="/frontend/assets/js/vendor/jquery.js"></script>
