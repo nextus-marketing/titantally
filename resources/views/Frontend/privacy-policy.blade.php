@@ -5,12 +5,12 @@
 <style>
     h4 {
     font-size: 20px;
-}
-@media only screen and (min-width: 1200px) and (max-width: 1399px) {
-    .tp-postbox-title2 {
-        font-size: 25px;
     }
-}
+    @media only screen and (min-width: 1200px) and (max-width: 1399px) {
+        .tp-postbox-title2 {
+            font-size: 25px;
+        }
+    }
 </style>
 <section class="breadcrumb__area pt-165 pb-150 p-relative z-index-1 fix" data-bg-color="#16243E">
     <div class="breadcrumb__bg" data-background="/frontend/my-img/bredcrum.png"></div>
