@@ -256,7 +256,7 @@
                   <div class="row">
                      <div class="col-md-12 col-lg-6">
                         <div class="tp-footer-copyright-inner">
-                           <p>© Titantally 2025 | All Rights Reserved</p>
+                           <p>© 2025 Powered by Titantally All Rights Reserved.</p>
                         </div>
                      </div>
                      <div class="col-md-12 col-lg-6">
