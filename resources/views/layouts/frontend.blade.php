@@ -237,10 +237,10 @@
                             <h3 class="tp-footer-widget-title">Get In Touch</h3>
                             <div class="tp-footer-widget-content">
                                 <div class="tp-footer-widget-item">
-                                    <span><i class="fa-regular fa-envelope"></i> info@titantally.com</span>
+                                    <span><i class="fa-regular fa-envelope"></i><a href="mailto:info@titantally.com">info@titantally.com</a></span>
                                 </div>
                                 <div class="tp-footer-widget-item">
-                                    <span><i class="fa-solid fa-phone"></i> (+0) 123 456 789</span>
+                                    <span><i class="fa-solid fa-phone"></i><a href="tel:+0123456789">(+0) 123 456 789</a></span>
                                 </div>
                                 <div class="tp-footer-widget-item">
                                     <span><i class="fa-solid fa-location-dot"></i> 255 Sheet, City Name Home Land, NY</span>
