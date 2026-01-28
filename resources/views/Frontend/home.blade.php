@@ -612,7 +612,6 @@
 
    </main>
 
-
    <script>
          var swiper = new Swiper(".industry-slider", {
          slidesPerView: 4,

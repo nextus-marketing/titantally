@@ -12,6 +12,7 @@
         }
     }
 </style>
+
 <section class="breadcrumb__area pt-165 pb-150 p-relative z-index-1 fix" data-bg-color="#16243E">
     <div class="breadcrumb__bg" data-background="/frontend/my-img/bredcrum.png"></div>
     <div class="container">
