@@ -2,24 +2,24 @@
 @section('title') Professional Accounting & Bookkeeping Services | Titan Tally @endsection
 @section('content')
 
-<style>
-   .pt-120 {
-    padding-top: 70px;
-   }
-   .pt-140 {
-      padding-top: 80px;
-   }
+   <style>
+      .pt-120 {
+      padding-top: 70px;
+      }
+      .pt-140 {
+         padding-top: 80px;
+      }
 
-   .pb-145 {
-      padding-bottom: 90px;
-   }
+      .pb-145 {
+         padding-bottom: 90px;
+      }
 
-   .tp-about-item-2-icon i {
-   font-size: 40px;
-   color: #004D6E;
-   }
+      .tp-about-item-2-icon i {
+      font-size: 40px;
+      color: #004D6E;
+      }
 
-</style>
+   </style>
  
    <main>
 
