@@ -10,7 +10,6 @@
       <link rel="canonical" href="{{ url()->current() }}" />
       <!-- Place favicon.ico in the root directory -->
       <link rel="shortcut icon" type="image/x-icon" href="/frontend/assets/img/logo/favicon.png">
-
       <!-- CSS here -->
       <link rel="stylesheet" href="/frontend/assets/css/bootstrap.css">
       <link rel="stylesheet" href="/frontend/assets/css/animate.css">
@@ -22,28 +21,12 @@
       <link rel="stylesheet" href="/frontend/assets/css/spacing.css">
       <link rel="stylesheet" href="/frontend/assets/css/main.css">
       <link rel="stylesheet" href="/frontend/assets/css/my.css">
-    <!-- Swiper CSS -->
-<link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/swiper@9/swiper-bundle.min.css"/>
-
-<!-- Swiper JS -->
-<script src="https://cdn.jsdelivr.net/npm/swiper@9/swiper-bundle.min.js"></script>
-
+      <!-- Swiper CSS -->
+      <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/swiper@9/swiper-bundle.min.css"/>
+      <!-- Swiper JS -->
+      <script src="https://cdn.jsdelivr.net/npm/swiper@9/swiper-bundle.min.js"></script>
    </head>
    <body>
-      <!--[if lte IE 9]>
-      <p class="browserupgrade">You are using an <strong>outdated</strong> browser. Please <a href="https://browsehappy.com/">upgrade your browser</a> to improve your experience and security.</p>
-      <![endif]-->
-
-
-      <!-- pre loader area start -->
-      <!-- <div id="loading">
-         <div id="loading-center">
-            <div class="preloader"></div>
-         </div>  
-      </div> -->
-      <!-- pre loader area end -->
-
-
       <!-- back to top start -->
       <div class="back-to-top-wrapper">
          <button id="back_to_top" type="button" class="back-to-top-btn">
@@ -53,8 +36,6 @@
          </button>
       </div>
       <!-- back to top end -->
-
-
       <!-- search area start -->
       <div class="search-area">
          <div class="search-inner p-relative">
@@ -89,7 +70,6 @@
       </div>
       <div class="search-overlay"></div>
       <!-- search area end -->
-
 
       <!-- offcanvas area start -->
       <div class="offcanvas__area">
@@ -274,7 +254,7 @@
             <i class="fas fa-phone"></i>
          </a>
 
-      <style>
+   <style>
       .call-now-btn {
       position: fixed;
       bottom: 30px;
@@ -308,7 +288,7 @@
          right: 20px;
       }
       }
-      </style>
+   </style>
 
 
       <!-- JS here -->
