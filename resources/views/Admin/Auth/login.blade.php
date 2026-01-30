@@ -26,4 +26,48 @@
    </div>
 </section>
 
+<!-- ================= 404 CONTENT ================= -->
+<section class="tp-process-area pt-120 pb-120">
+    <div class="container">
+        <div class="row justify-content-center">
+            <div class="col-lg-8">
+                <div class="tp-process-title-wrapper-2 text-center">
+
+                    <!-- Big 404 -->
+                    <span style="
+                        font-size:120px;
+                        font-weight:800;
+                        color:#16243E;
+                        display:block;
+                        line-height:1;
+                    ">
+                        404
+                    </span>
+
+                    <!-- Main Title -->
+                    <h3 class="tp-section-title mt-20 mb-15">
+                        Oops! Page Not Found
+                    </h3>
+
+                    <!-- Description -->
+                    <p class="mb-40" style="font-size:18px; color:#6b7280;">
+                        The page you’re looking for doesn’t exist or has been moved.
+                        Please check the URL or return to the homepage.
+                    </p>
+
+                    <!-- Button -->
+                    <div class="tp-about-btn-wrapper-2 d-flex justify-content-center">
+                        <div class="tp-about-btn-2">
+                            <a href="/" class="tp-btn">
+                              <i class="fa-solid fa-house"></i>  Back To Home
+                            </a>
+                        </div>
+                    </div>
+
+                </div>
+            </div>
+        </div>
+    </div>
+</section>
+
 @endsection
